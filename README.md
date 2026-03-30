@@ -31,7 +31,7 @@ Managing shared expenses shouldn't be a headache. **SplitwiseBuddy** is a lightw
 - `src/pages`: Main App Views
 
 ## 📺 Demo Video
-[Insert Link Here]
+[[Demo Link](https://drive.google.com/file/d/1i5fU7ACvPijxNzWIja5pNYyCYRF5le01/view?usp=sharing)]
 
 ---
 Developed by **Bhuvana Manogar**
